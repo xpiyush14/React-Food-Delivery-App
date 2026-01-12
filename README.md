@@ -54,4 +54,4 @@ The application provides a seamless experience similar to popular food delivery 
 * **README.md – Project documentation***
 ## 🖼 Visual Preview
 Below is a snapshot of the main landing page of Tasty Burger:
-![Banking Dashboard Summary Page](Dasboard_Preview.png)
+![Interface Page](Interface.png)
