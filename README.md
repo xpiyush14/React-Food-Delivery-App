@@ -22,7 +22,7 @@ The application provides a seamless experience similar to popular food delivery 
 * **A visually attractive hero section with featured burgers and pricing**
 * **The design emphasizes user engagement, accessibility, and commercial-style UI layout.**
 
-##✨ Key Features
+## ✨ Key Features
 
 * **The Tasty Burger application focuses on both functionality and aesthetics, including:**
 * **Modern Landing Page – Displays featured burgers, pricing, and promotional offers.**
@@ -32,7 +32,7 @@ The application provides a seamless experience similar to popular food delivery 
 * **Responsive Design – Optimized for desktop, tablet, and mobile screens.**
 * **Fast Performance – Powered by React 18 and optimized build process.**
 
-##🔧 Technologies Used
+## 🔧 Technologies Used
 
 * **Frontend Framework: React 18**
 * **Routing: React Router DOM**
@@ -42,7 +42,7 @@ The application provides a seamless experience similar to popular food delivery 
 * **Testing: React Testing Library***
 * **Version Control: Git & GitHub***
 
-##📂 Repository Contents
+## 📂 Repository Contents
 
 * **This repository contains the following main components:***
 * **src/ – Core application source code* **
@@ -54,3 +54,4 @@ The application provides a seamless experience similar to popular food delivery 
 * **README.md – Project documentation***
 ## 🖼 Visual Preview
 Below is a snapshot of the main landing page of Tasty Burger:
+![Banking Dashboard Summary Page](Dasboard_Preview.png)
